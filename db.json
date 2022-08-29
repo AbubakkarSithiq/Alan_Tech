@@ -152,5 +152,8 @@
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzVhMDcwMWItNWQwZi00ZDEzLThiMjEtYWU4OTM3OGU0OTMxXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg",
             "poster_path": "https://m.media-amazon.com/images/M/MV5BNzVhMDcwMWItNWQwZi00ZDEzLThiMjEtYWU4OTM3OGU0OTMxXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg"
         }
-    ]
+    ],
+    "profile":{
+        "name":"AbubakkarSithiq"
+    }
 }
