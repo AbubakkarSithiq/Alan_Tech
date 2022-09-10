@@ -2,19 +2,6 @@
     "movies": [
         {
             "id": 1,
-            "title": "Sita ramam",
-            "cast": "Dulquer Salmaan , Mrunal Thakur , Rashmika Mandanna , Sumanth",
-            "director": "Hanu Raghavapudi",
-            "music_dir": "Vishal Chandrasekhar",
-            "genere": "period romantic drama",
-            "status": "In cinemas",
-            "language": "Malayalam,Tamil,Hindi",
-            "release_date": "5 Aug 2022",
-            "thumbnail": "https://assetscdn1.paytm.com/images/cinema/Sita22-min-66265710-0c02-11ed-8c95-6d00cb06a5a6.jpg",
-            "poster_path": "https://assetscdn1.paytm.com/images/cinema/Sita22-min-66265710-0c02-11ed-8c95-6d00cb06a5a6.jpg"
-        },
-        {
-            "id": 2,
             "title": "Viruman",
             "cast": "Karthi , Aditi Shankar , Rajkiran , Prakash Raj , Soori , Karunas , Vadivukkarasi , Saranya Ponvannan",
             "director": "M. Muthaiah",
@@ -27,7 +14,7 @@
             "poster_path": "https://pbs.twimg.com/media/FI4Gwe9aIAE6nev?format=jpg&name=4096x4096"
         },
         {
-            "id": 3,
+            "id": 2,
             "title": "Thiruchitrambalam",
             "cast": " Dhanush , Nithya Menen",
             "director": "Mithran R Jawahar",
@@ -40,7 +27,7 @@
             "poster_path": "https://m.media-amazon.com/images/M/MV5BYTNkNjQ4OTUtN2RjOS00NDU4LWI1MzItNWJlZjY2MmYxNDEyXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg"
         },
         {
-            "id": 4,
+            "id": 3,
             "title": "Liger",
             "cast": "Vijay Deverakonda , Ananya Panday , Ramya Krishna , Ronit Roy , Vishu Reddy",
             "director": "Puri Jagannadh",
@@ -53,7 +40,7 @@
             "poster_path": "https://pbs.twimg.com/media/FX8iZZTaUAAXtks?format=jpg&name=900x900"
         },
         {
-            "id": 5,
+            "id": 4,
             "title": "Diary",
             "cast": "Arulnithi , Nakkalites Dhanam , Kishore Kumar G. , V. Jayaprakash , Pavithrah Marimuthu , Sha Ra",
             "director": "Innasi Pandiyan",
@@ -66,7 +53,7 @@
             "poster_path": "https://m.media-amazon.com/images/M/MV5BMjc0OTJhMDEtNDYyYy00NjVlLTg0ZGMtN2ZkMzAyMWQwYTY5XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_.jpg"
         },
         {
-            "id": 6,
+            "id": 5,
             "title": "Cobra",
             "cast": "Vikram , Srinidhi Shetty , Irfan Pathan , Miya George",
             "director": "R. Ajay Gnanamuthu",
@@ -79,7 +66,7 @@
             "poster_path": "https://www.filmibeat.com/ph-big/2022/05/cobra_1653124273160.jpg"
         },
         {
-            "id": 7,
+            "id": 6,
             "title": "Natchathiram Nagargirathu",
             "cast": "Kalidas Jayaram , Dushara Vijayan",
             "director": "Pa. Ranjith",
@@ -92,7 +79,7 @@
             "poster_path": "https://www.plumeriamovies.com/wp-content/uploads/2022/08/Natchathiram-Nagargiradh-.jpeg"
         },
         {
-            "id": 8,
+            "id": 7,
             "title": "Captain",
             "cast": " Arya, Aishwarya Lekshmi",
             "director": "Shakti S. Rajan",
@@ -147,7 +134,6 @@
                 "poster_path": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2019/11/19/Arun-vijay-s-Sinam-Movie-First-Look-Poster-.jpg?quality=80&zoom=1&ssl=1"
 
             },
-
             {
                 "id": 4,
                 "title": "Ponniyin Selvan 1",
