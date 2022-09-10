@@ -103,7 +103,7 @@
             "release_date": "08 sept 2022",
             "year": "2022",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGYzNTc4NmQtOTJlOS00MjljLThkYTUtNGY1MDUxNzc5Y2U5XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg",
-            "poster_path": "https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/captain-20220725130641-20555.jpg"
+            "poster_path": "https://m.media-amazon.com/images/M/MV5BOGYzNTc4NmQtOTJlOS00MjljLThkYTUtNGY1MDUxNzc5Y2U5XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg"
         }  
     ],
     "upcoming-movies": [
@@ -138,9 +138,24 @@
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzVhMDcwMWItNWQwZi00ZDEzLThiMjEtYWU4OTM3OGU0OTMxXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg",
             "poster_path": "https://m.media-amazon.com/images/M/MV5BNzVhMDcwMWItNWQwZi00ZDEzLThiMjEtYWU4OTM3OGU0OTMxXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg"
         },
-        
+         {
+                "id": 3,
+                "title": "Sinam",
+                "cast": " Arun Vijay , Palak Lalwani",
+                "director": "G. N. R. Kumaravelan",
+                "music_dir": "Shabir",
+                "genere": "Action thriller",
+                "type": "Movie",
+                "status": "Soon....",
+                "language": "Tamil",
+                "release_date": "16 September 2022",
+                "year": "2022",
+                "thumbnail": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2019/11/19/Arun-vijay-s-Sinam-Movie-First-Look-Poster-.jpg?quality=80&zoom=1&ssl=1",
+                "poster_path": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2019/11/19/Arun-vijay-s-Sinam-Movie-First-Look-Poster-.jpg?quality=80&zoom=1&ssl=1"
+
+            },
         {
-            "id": 3,
+            "id": 4,
             "title": "Ponniyin Selvan 1",
             "cast": "Vikram , Aishwarya Rai Bachchan , Jayam Ravi , Karthi ,Trisha,Aishwarya Lekshmi, Sobhita Dhulipala , Prabhu , R.Sarathkumar , Vikram Prabhu , Jayaram , Prakash Raj , Rahman , R.Parthiban",
             "director": "Mani Ratnam",
@@ -155,7 +170,7 @@
             "poster_path": "https://assets.gadgets360cdn.com/pricee/assets/product/202203/Ponniyin-Selvan-Part-I-poster_1647667573.jpg"
         },
          {
-                "id": 4,
+                "id": 5,
                 "title": "Naane Varuvan",
                 "cast": " Dhanush , Selvaraghavan",
                 "director": "Selvaraghavan",
@@ -170,7 +185,7 @@
                 "poster_path": "https://pbs.twimg.com/media/FOsugmJacAk9Zih?format=jpg&name=medium"
             },
          {
-            "id": 5,
+            "id": 6,
             "title": "Pisasu 2",
             "cast": "Andrea Jeremiah , Rajkumar Pitchumani",
             "director": "Mysskin",
@@ -185,7 +200,7 @@
             "poster_path": "https://igimages.gumlet.io/tamil/home/pisasu130722_2.jpg?w=376&dpr=2.6"
         },
         {
-            "id": 6,
+            "id": 7,
             "title": "Agilan",
             "cast": "Jayam Ravi , Priya Bhavani Shankar , Tanya S Ravichandran , Harish Uthaman ",
             "director": "N. Kalyanakrishnan",
