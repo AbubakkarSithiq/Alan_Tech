@@ -1,7 +1,7 @@
 {
     "movies": [
         {
-            "id": 2,
+            "id": 1,
             "title": "Viruman",
             "cast": "Karthi , Aditi Shankar , Rajkiran , Prakash Raj , Soori , Karunas , Vadivukkarasi , Saranya Ponvannan",
             "director": "M. Muthaiah",
@@ -16,7 +16,7 @@
             "poster_path": "https://pbs.twimg.com/media/FI4Gwe9aIAE6nev?format=jpg&name=4096x4096"
         },
         {
-            "id": 3,
+            "id": 2,
             "title": "Thiruchitrambalam",
             "cast": " Dhanush , Nithya Menen",
             "director": "Mithran R Jawahar",
@@ -31,7 +31,7 @@
             "poster_path": "https://m.media-amazon.com/images/M/MV5BYTNkNjQ4OTUtN2RjOS00NDU4LWI1MzItNWJlZjY2MmYxNDEyXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg"
         },
         {
-            "id": 4,
+            "id": 3,
             "title": "Liger",
             "cast": "Vijay Deverakonda , Ananya Panday , Ramya Krishna , Ronit Roy , Vishu Reddy",
             "director": "Puri Jagannadh",
@@ -46,7 +46,7 @@
             "poster_path": "https://pbs.twimg.com/media/FX8iZZTaUAAXtks?format=jpg&name=900x900"
         },
         {
-            "id": 5,
+            "id": 4,
             "title": "Diary",
             "cast": "Arulnithi , Nakkalites Dhanam , Kishore Kumar G. , V. Jayaprakash , Pavithrah Marimuthu , Sha Ra",
             "director": "Innasi Pandiyan",
@@ -61,7 +61,7 @@
             "poster_path": "https://m.media-amazon.com/images/M/MV5BMjc0OTJhMDEtNDYyYy00NjVlLTg0ZGMtN2ZkMzAyMWQwYTY5XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_.jpg"
         },
         {
-            "id": 6,
+            "id": 5,
             "title": "Cobra",
             "cast": "Vikram , Srinidhi Shetty , Irfan Pathan , Miya George",
             "director": "R. Ajay Gnanamuthu",
@@ -76,7 +76,7 @@
             "poster_path": "https://www.filmibeat.com/ph-big/2022/05/cobra_1653124273160.jpg"
         },
         {
-            "id": 7,
+            "id": 6,
             "title": "Natchathiram Nagargirathu",
             "cast": "Kalidas Jayaram , Dushara Vijayan",
             "director": "Pa. Ranjith",
@@ -89,7 +89,22 @@
             "year": "2022",
             "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmNlNTkxOWQtNjQyOS00ZjdmLTgzZDEtYmQxZjU4MWZhZTgyXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_FMjpg_UX1000_.jpg",
             "poster_path": "https://www.plumeriamovies.com/wp-content/uploads/2022/08/Natchathiram-Nagargiradh-.jpeg"
-        }
+        },
+        {
+            "id": 7,
+            "title": "Captain",
+            "cast": " Arya, Aishwarya Lekshmi",
+            "director": "Shakti S. Rajan",
+            "music_dir": "D. Imman",
+            "gener": "Action Adventure Thriller",
+            "type": "Movie",
+            "status": "In cinemas",
+            "language": "Tamil, Malayalam , Hindi",
+            "release_date": "08 sept 2022",
+            "year": "2022",
+            "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGYzNTc4NmQtOTJlOS00MjljLThkYTUtNGY1MDUxNzc5Y2U5XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg",
+            "poster_path": "https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/captain-20220725130641-20555.jpg"
+        }  
     ],
     "upcoming-movies": [
       
