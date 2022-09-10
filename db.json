@@ -1,21 +1,6 @@
 {
     "movies": [
         {
-            "id": 1,
-            "title": "Sita ramam",
-            "cast": "Dulquer Salmaan , Mrunal Thakur , Rashmika Mandanna , Sumanth",
-            "director": "Hanu Raghavapudi",
-            "music_dir": "Vishal Chandrasekhar",
-            "gener": "period romantic drama",
-            "type": "Movie",
-            "status": "In cinemas",
-            "language": "Malayalam,Tamil,Hindi",
-            "release_date": "5 Aug 2022",
-            "year": "2022",
-            "thumbnail": "https://assetscdn1.paytm.com/images/cinema/Sita22-min-66265710-0c02-11ed-8c95-6d00cb06a5a6.jpg",
-            "poster_path": "https://assetscdn1.paytm.com/images/cinema/Sita22-min-66265710-0c02-11ed-8c95-6d00cb06a5a6.jpg"
-        },
-        {
             "id": 2,
             "title": "Viruman",
             "cast": "Karthi , Aditi Shankar , Rajkiran , Prakash Raj , Soori , Karunas , Vadivukkarasi , Saranya Ponvannan",
