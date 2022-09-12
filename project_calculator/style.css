@@ -1,0 +1,81 @@
+/* body {
+    background-color: black;
+} */
+
+.Container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 5px solid black;
+    margin: 0 auto;
+    text-align: center;
+    width: 280px;
+    border-radius: 6px;
+    padding: 5px;
+    background-color: black;
+}
+
+.Buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: minmax(60px, auto);
+
+}
+
+.Buttons button {
+    border: none;
+    outline: none;
+    border-radius: 50%;
+
+    margin: 5px;
+    font-weight: 700;
+    /* box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.3),
+        0 -3px 5px 0 rgba(0, 0, 0, 0.3); */
+}
+
+input[type='text'] {
+    max-width: 100%;
+    height: 70px;
+    margin: 10px auto;
+    padding: 8px 10px;
+    font-size: 25px;
+    text-align: end;
+    font-weight: 600;
+    border-radius: 25px;
+    border: none;
+    /* box-shadow: inset 0 3px 5px 0 rgba(0, 0, 0, 0.3),
+        inset 0 -3px 5px 0 rgba(0, 0, 0, 0.3); */
+}
+
+#clear {
+    grid-column: 1/3;
+    grid-row: 1;
+    border-radius: 5px;
+    color: white;
+    box-shadow: none;
+}
+
+.highlight {
+    background-color: rgb(212, 8, 8);
+    color: white;
+    box-shadow: none;
+}
+
+#equal {
+    grid-column: 3/5;
+    grid-row: 5;
+    border-radius: 5px;
+    color: white;
+    box-shadow: none;
+}
+
+/* .Buttons .button {
+    width: 48px;
+    height: 48px;
+    margin: 5px;
+    border-radius: 50%;
+    background-color: white;
+    font-size: 20px;
+    font-weight: 800;
+} */
