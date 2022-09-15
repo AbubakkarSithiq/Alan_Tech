@@ -1,0 +1,92 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+
+
+
+div.complete>.p {
+    text-decoration: line-through;
+    text-decoration-color: #fff;
+    text-decoration-thickness: 3px;
+}
+
+
+.container {
+    background-color: black;
+    width: 500px;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container h1 {
+    color: sandybrown;
+    text-align: center;
+    margin: 10px 0 15px 0;
+}
+
+/* form */
+
+form {
+    text-align: center;
+}
+
+input[type='text'] {
+    text-align: center;
+    padding: 10px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    border-radius: 6px;
+    margin-right: 5px;
+}
+
+.add {
+    font-weight: bold;
+    border: none;
+    padding: 10px 15px;
+    outline: none;
+    font-size: 20px;
+    border-radius: 6px;
+}
+
+
+/* list */
+
+.list {
+    background-color: sandybrown;
+    padding: 10px;
+    width: 480px;
+    margin-top: 15px;
+    position: relative;
+    border-radius: 5px;
+}
+
+.list .p {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.list .icon {
+    position: absolute;
+    right: 0;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.icon i {
+    margin: 0 5px;
+}
+
+.icon:hover i {
+    cursor: pointer;
+}
+
+/*
+div.incomplete>p {
+    text-decoration: none;
+}
+ 
+.p {
+    background-color: aqua;
+} */
