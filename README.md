@@ -1,7 +1,7 @@
 # Alan_Tech
 
 Try it
-https://my-json-server.typicode.com/AbubakkarSithiq/Alan_Tech
+https://my-json-server.typicode.com/AbubakkarSithiq/Moviesite
 
 Use your own data
 
