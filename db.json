@@ -6,7 +6,7 @@
       "cast": "Andrea Jeremiah | Rajkumar Pitchumani",
       "director": "Mysskin",
       "music_dir": "Karthik raja",
-      "gener": "Drama | Horror",
+      "genre": "Drama | Horror",
       "language": "Tamil",
       "runtime": "Soon ....",
       "format": "2D",
@@ -34,11 +34,24 @@
       "director": "james Cameron",
       "music_dir": "Not found",
       "genre": "Action | Sci-Fi | Adventure",
-      "language": "English",
-      "format": "3D | 2D | IMAX ",
+      "language": "English | Tamil | Kannada | Malayalam | Hindi | Telugu",
+      "format": "3D | 2D | IMAX 3D | 4DX ",
       "runtime": "Soon ....",
       "release_date": "16 dec 2022",
       "poster": "https://m.media-amazon.com/images/M/MV5BMWFmYmRiYzMtMTQ4YS00NjA5LTliYTgtMmM3OTc4OGY3MTFkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Vaathi",
+      "cast": "Dhanush | Samyuktha Menon ",
+      "director": "Venky Atluri",
+      "music_dir": "G.V.Prakash Kumar",
+      "genre": "period Action | Drama",
+      "language": "Telugu | Tamil",
+      "format": "2D ",
+      "runtime": "Soon ....",
+      "release_date": "2 dec 2022",
+      "poster": "https://igimages.gumlet.io/tamil/home/dhanush270722_1.jpg?w=376&dpr=2.6"
     },
     {
       "id": 4,
@@ -51,7 +64,7 @@
       "format": "2D",
       "runtime": "2hrs 37mins",
       "release_date": "5 Oct 2022",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Godfather_Telugu_poster.jpeg/220px-Godfather_Telugu_poster.jpeg"
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmIxMjM2N2MtYjJiMC00NDNmLWExMDEtZjYyYjIyNjMzMDEwXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_.jpg"
     },
     {
       "id": 5,
@@ -64,7 +77,7 @@
       "format": "2D",
       "runtime": "2hrs 2mins",
       "release_date": "5 oct 2022",
-      "poster": "https://cdn.123telugu.com/content/wp-content/uploads/2022/08/TheGhost.jpg"
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTE4YjMzMjUtZDI2ZC00MDA1LWIzZjYtNDAzNzQ4MDM4NTQyXkEyXkFqcGdeQXVyMTE5Mjg2MzA1._V1_.jpg"
     },
     {
       "id": 6,
@@ -91,19 +104,6 @@
       "runtime": "2hrs 4mins",
       "release_date": "21 oct 2022",
       "poster": "https://upload.wikimedia.org/wikipedia/en/a/a9/Black_Adam_%28film%29_poster.jpg"
-    },
-    {
-      "id": 8,
-      "title": "Vaathi",
-      "cast": "Dhanush | Samyuktha Menon ",
-      "director": "Venky Atluri",
-      "music_dir": "G.V.Prakash Kumar",
-      "genre": "period Action | Drama",
-      "language": "Telugu | Tamil",
-      "format": "2D ",
-      "runtime": "Soon ....",
-      "release_date": "2 dec 2022",
-      "poster": "https://igimages.gumlet.io/tamil/home/dhanush270722_1.jpg?w=376&dpr=2.6"
     },
     {
       "id": 9,
